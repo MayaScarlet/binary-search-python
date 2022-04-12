@@ -1,2 +1,2 @@
 # binary-search-python
-Solutions to problems of [https://binarysearch.com/problems](binary search) in Python.
+Solutions to problems of [binary search](https://binarysearch.com/problems) in Python.
